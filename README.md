@@ -2,6 +2,9 @@
 
 This repository is a small showcase of my academic and professional background as an engineering student in the SICOM program at Grenoble Institue of Technology (GIT).
 
+https://phelma.grenoble-inp.fr/fr/formation/ingenieur-de-grenoble-inp-phelma-filiere-signal-image-communication-multimedia-sicom
+
+
 It contains:
 
 * Two internship reports:
