@@ -1,6 +1,6 @@
 # Morgan-SANTALUCIA
 
-This repository is a small showcase of my academic and professional background as an engineering student in the SICOM program at Grenoble INP.
+This repository is a small showcase of my academic and professional background as an engineering student in the SICOM program at Grenoble Institue of Technology (GIT).
 
 It contains:
 
