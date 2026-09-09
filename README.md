@@ -15,8 +15,8 @@ It contains:
 
 * Academic transcripts:
 
-  * 1A engineering
-  * 2A SICOM – first semester
+  * 1st-year engineering
+  * 2nd-year - SICOM – first semester
 
 The second-semester transcript will be added once officially released. A provisional version can be provided if needed.
 
